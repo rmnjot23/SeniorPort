@@ -5,7 +5,11 @@
   box-sizing: border-box;
   color:#5f3e0c;
 }
-
+img{
+  border-radius: 50%;
+  border-width: 2px;
+  border-color: white;
+}
 #body {
   width: auto;
   height:auto; 
