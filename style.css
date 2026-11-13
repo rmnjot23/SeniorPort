@@ -69,10 +69,7 @@
 .resource-card {
   color: #222748;
   font-family: Georgia, Garamond ;
-  background-image: url("flower.jpg");
-  background-size: cover;
-  background-repeat: repeat-y;
-  background-attachment: fixed;
+  background-color: #C2A68C;
   margin: 2em auto;
   padding: 1.5em;
   border-radius: 12px;
